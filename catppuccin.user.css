@@ -236,9 +236,9 @@ url-prefix("https://xo.wtf/") {
       --ctp-surface2: #585b70;
       --ctp-surface1: #45475a;
       --ctp-surface0: #313244;
-      --ctp-base: #1e1e2e;
+      --ctp-base: #11111b;
       --ctp-mantle: #181825;
-      --ctp-crust: #11111b;
+      --ctp-crust: #1e1e2e;
     }
 
   }
